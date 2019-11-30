@@ -3,7 +3,8 @@ katz_deli = []
 # another_deli = ["Amanda", "Annette", "Ruchi", "Jason", "Logan", "Spencer", "Avi", "Joe", "Rachel", "Lindsey"]
 
 def line(katz_deli)
-  if
+  while katz_deli == 0 
+  
   
   end
 end
