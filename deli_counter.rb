@@ -4,7 +4,7 @@ katz_deli = []
 
 def line(katz_deli)
   while katz_deli == 0 
-  
+    puts 
   
   end
 end
