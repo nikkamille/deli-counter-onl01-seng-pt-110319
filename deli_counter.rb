@@ -7,5 +7,4 @@ def line(customer)
     puts "The line is currently empty."
     #count += 1 
     #puts "The line is currently #{name}"
-  end
 end
