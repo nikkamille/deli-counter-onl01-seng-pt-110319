@@ -3,7 +3,7 @@ katz_deli = []
 # another_deli = ["Amanda", "Annette", "Ruchi", "Jason", "Logan", "Spencer", "Avi", "Joe", "Rachel", "Lindsey"]
 
 def line(katz_deli)
-  while katz_deli == 0 
+  if katz_deli == 0 
     puts "The line is currently empty."
     #count += 1 
     #puts "The line is currently #{name}"
