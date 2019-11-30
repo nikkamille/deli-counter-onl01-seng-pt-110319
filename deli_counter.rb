@@ -6,7 +6,7 @@ def line(katz_deli)
   while katz_deli == 0 
     puts "The line is currently empty."
     count += 1 
-    puts "The line is currently {["
+    puts "The line is currently {"
     
   
   end
